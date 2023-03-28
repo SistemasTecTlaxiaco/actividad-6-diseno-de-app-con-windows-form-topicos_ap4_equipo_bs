@@ -1,0 +1,6 @@
+C:\Users\LATITUDE5490\source\repos\Libanco\Libanco\bin\Debug\Libanco.dll
+C:\Users\LATITUDE5490\source\repos\Libanco\Libanco\bin\Debug\Libanco.pdb
+C:\Users\LATITUDE5490\source\repos\Libanco\Libanco\obj\Debug\Libanco.csprojAssemblyReference.cache
+C:\Users\LATITUDE5490\source\repos\Libanco\Libanco\obj\Debug\Libanco.csproj.CoreCompileInputs.cache
+C:\Users\LATITUDE5490\source\repos\Libanco\Libanco\obj\Debug\Libanco.dll
+C:\Users\LATITUDE5490\source\repos\Libanco\Libanco\obj\Debug\Libanco.pdb
