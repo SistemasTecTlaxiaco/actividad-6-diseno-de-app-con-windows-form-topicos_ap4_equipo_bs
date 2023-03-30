@@ -33,3 +33,6 @@ C:\Users\LATITUDE5490\source\repos\cajero\WindowsFormsApp2\WindowsFormsApp2\obj\
 C:\Users\LATITUDE5490\source\repos\cajero\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
 C:\Users\LATITUDE5490\source\repos\cajero\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
 C:\Users\LATITUDE5490\source\repos\cajero\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\edtom\OneDrive\Escritorio\actividad-6-diseno-de-app-con-windows-form-topicos_ap4_equipo_bs\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\edtom\OneDrive\Escritorio\actividad-6-diseno-de-app-con-windows-form-topicos_ap4_equipo_bs\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\edtom\OneDrive\Escritorio\actividad-6-diseno-de-app-con-windows-form-topicos_ap4_equipo_bs\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
